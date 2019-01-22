@@ -1,0 +1,9 @@
+Library Test:
+
+	*Write all test cases with well-structured assertion messages. 
+	* You can write necessary methods/ variables in these class if necessary
+1. Test available_number_of_copies() method in Book class.
+2. Test lend_book() and return_book() method in user class with necessary exceptions
+3. Perform test on isAvailable() method in Library class
+4. Test get_book_list() method in Library class with a time limit. 
+5. Write a test suite to run all the test classes together

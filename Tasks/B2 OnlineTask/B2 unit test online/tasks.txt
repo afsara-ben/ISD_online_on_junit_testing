@@ -1,0 +1,11 @@
+Date Test:
+
+	*Write all test cases with well-structured assertion messages. 
+	* You can write necessary methods/ variables in these class if necessary
+	
+1. Test whether two dates are equal initialized with different constructors.
+2. Test addDays() method with necessary exceptions. 
+3. Perform Branch Coverage in  isLeapYear() function.
+4. Perform basic path testing in nextDay() function.
+5. Test  getDayOfWeek() function. 
+

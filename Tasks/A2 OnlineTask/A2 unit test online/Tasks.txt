@@ -1,0 +1,10 @@
+Bank Account Test:
+	
+	*Write all test cases with well-structured assertion messages. 
+	* You can write necessary methods/ variables in these class if necessary
+
+1. Perform exception testing on invalid cases in constructor of BankAccount class. (negative balance, wrong account type)
+2. Perform equivalence partitioning testing in  get_interest()  methods in BankAccount class with necessary exceptions. 
+3. Test deposit(), withdraw() method in BankHandler class with necessary exceptions.  Use get_current_balance() method in Bankaccount class to verify. 
+4. Test transfer() method in Bankhandler class with necessary exceptions. Use get_current_balance() method in Bankaccount class to verify. 
+5. Implement and test get_total() method in Banks Handler class. 
